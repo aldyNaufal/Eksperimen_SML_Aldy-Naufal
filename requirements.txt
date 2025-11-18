@@ -1,0 +1,13 @@
+python-dotenv==1.0.1
+requests==2.32.3
+
+# Data processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Google API
+google-api-python-client==2.97.0
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.13.2
